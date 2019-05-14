@@ -30,3 +30,13 @@ body{
   max-width: 375px;
   align-self: center;
 }
+
+#badge{
+  cursor: pointer;
+  width: 30%;
+}
+
+.st0:hover{
+  opacity:1;
+  fill: #fff;
+}
