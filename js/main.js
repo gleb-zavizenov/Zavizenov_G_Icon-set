@@ -1,0 +1,4 @@
+( () => {
+  //stu
+  console.log('Fired!');
+})();
