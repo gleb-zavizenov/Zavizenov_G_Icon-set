@@ -40,3 +40,7 @@ body{
   opacity:1;
   fill: #fff;
 }
+
+.active{
+  color:blue !important;
+}
